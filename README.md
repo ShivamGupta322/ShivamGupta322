@@ -99,20 +99,6 @@ class Shivam {
 
 ---
 
-## 🎖️ GitHub Achievements
-
-<div align="center">
-
-| Achievement | Badge |
-|------------|-------|
-| ⚡ Quickdraw | Closed an issue/PR within 5 minutes of opening |
-| 🎯 YOLO | Merged a PR without a review |
-
-> *More achievements unlocked as you contribute more!* 🚀
-
-</div>
-
----
 
 ## 🐍 Contribution Snake
 
