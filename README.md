@@ -77,9 +77,9 @@ class Shivam {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ShivamGupta322&theme=tokyonight&hide_border=false&show_icons=true&count_private=true&border_color=7957d5&bg_color=0D1117&title_color=C792EA&icon_color=F7C948&text_color=A9B1D6" height="165"/>
+![Lang](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shivamgupta322&theme=2077)
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShivamGupta322&theme=tokyonight&hide_border=false&layout=compact&border_color=7957d5&bg_color=0D1117&title_color=C792EA&text_color=A9B1D6" height="165"/>
+![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=shivamgupta322&theme=2077)
 
 <br/>
 
